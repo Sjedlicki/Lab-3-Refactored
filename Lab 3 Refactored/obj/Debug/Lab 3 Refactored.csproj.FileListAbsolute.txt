@@ -1,0 +1,7 @@
+C:\git\Lab 3 Refactored\Lab 3 Refactored\bin\Debug\Lab 3 Refactored.exe.config
+C:\git\Lab 3 Refactored\Lab 3 Refactored\bin\Debug\Lab 3 Refactored.exe
+C:\git\Lab 3 Refactored\Lab 3 Refactored\bin\Debug\Lab 3 Refactored.pdb
+C:\git\Lab 3 Refactored\Lab 3 Refactored\obj\Debug\Lab 3 Refactored.csprojAssemblyReference.cache
+C:\git\Lab 3 Refactored\Lab 3 Refactored\obj\Debug\Lab 3 Refactored.csproj.CoreCompileInputs.cache
+C:\git\Lab 3 Refactored\Lab 3 Refactored\obj\Debug\Lab 3 Refactored.exe
+C:\git\Lab 3 Refactored\Lab 3 Refactored\obj\Debug\Lab 3 Refactored.pdb
